@@ -137,3 +137,12 @@ td img {
     width: 20%;
 }
 
+button:hover {
+    background-color: #947f23;
+    color: white;
+}
+
+button:active {
+    background-color: white;
+    color: black;
+}

@@ -133,4 +133,10 @@ td button {
 
 td {
     text-align: center;
+    width: 25%;
 }
+
+td img {
+    width: 20%;
+}
+

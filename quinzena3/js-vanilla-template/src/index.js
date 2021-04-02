@@ -22,7 +22,7 @@ let idade
 // c-
 
 console.log (typeof nome)
-console.log (typeof idade)*/
+console.log (typeof idade)
 
 // d- Foi impresso 'undefined', porque não existe um valor atribuido (undefined = indefinido/não definido)
 

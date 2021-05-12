@@ -44,7 +44,7 @@ export default class App extends React.Component {
           break;
       }
     }
-
+//teste
     return (
       <Body>
         <div>{page()}</div>
